@@ -183,11 +183,6 @@ public class SuhithGhanathay extends SeniorSoftwareEngineer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuhithCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhithCodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhithCodes&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <br/>
@@ -202,7 +197,7 @@ public class SuhithGhanathay extends SeniorSoftwareEngineer {
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                                                                       │
+│                                                                     │
 │   🏗️  DISTRIBUTED SYSTEMS       ████████████████████  Expert        │
 │   ☁️  CLOUD NATIVE (AWS/K8s)    ████████████████████  Expert        │
 │   💳  PAYMENT PLATFORMS         ████████████████████  Expert        │
@@ -211,7 +206,7 @@ public class SuhithGhanathay extends SeniorSoftwareEngineer {
 │   🔐  API SECURITY              ███████████████████░  Advanced      │
 │   🗄️  DATABASE DESIGN           ████████████████████  Expert        │
 │   📊  OBSERVABILITY             ███████████████████░  Advanced      │
-│                                                                       │
+│                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
