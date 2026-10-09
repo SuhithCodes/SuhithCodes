@@ -1,21 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suhith%20Ghanathay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Native%20%7C%20AI%2FML&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f172a%2C45%3A312e81%2C100%3A0891b2&height=230&section=header&text=Suhith+Ghanathay&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI+Harness+Engineering+%7C+Forward+Deployed+Engineering&descAlignY=57&descSize=17&animation=fadeIn" alt="Suhith Ghanathay — AI Harness Engineering and Forward Deployed Engineering" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Distributed+Payment+Systems+%F0%9F%92%B3;Crafting+Cloud-Native+Microservices+%E2%9B%85;Engineering+AI-Powered+Applications+%F0%9F%A4%96;Streaming+Data+at+Scale+with+Kafka+%2B+Flink+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=820&height=55&lines=Exploring+agent+harnesses+%26+context+engineering%3BTesting+behaviors.+Evaluating+workflows.%3BFrom+real-world+problems+to+deployed+AI+products%3BAWS+%2B+Inngest+%2B+Vercel+%2B+Cloudflare" alt="Agent harnesses, evaluations, deployed AI products, and cloud infrastructure" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhith.g@mycvscout.com)
-[![Location](https://img.shields.io/badge/Texas%2C%20USA-Open%20to%20Relocate-00C7B7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
-[![MS CS](https://img.shields.io/badge/M.S.%20Computer%20Science-UT%20Arlington-FF6B35?style=for-the-badge&logo=academia&logoColor=white)](https://uta.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-SuhithCodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhithCodes)
+[![Email](https://img.shields.io/badge/Email-Let%27s_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhith.g@mycvscout.com)
 
 <br/>
+<br/>
+
+**Agents that can do useful work. Evaluations that earn trust. Infrastructure that ships.**
 
 </div>
 
@@ -23,222 +20,184 @@
 
 ## 🧬 About Me
 
-```java
-@Component
-public class SuhithGhanathay extends SeniorSoftwareEngineer {
+I'm Suhith. My current interests sit at the intersection of **AI harness engineering**, **forward deployed engineering**, and **reliable deployments**. I'm drawn to the work around the model: context, tools, workflows, testing, evaluations, and everything it takes to turn an idea into something people can use.
 
-    private final List<String> specializations = List.of(
-        "Distributed Microservices",
-        "Cloud-Native Architecture",
-        "AI-Powered Applications",
-        "Real-Time Streaming Pipelines"
-    );
+```python
+class Suhith:
+    current_focus = [
+        "AI harnesses & agent orchestration",
+        "Forward deployed engineering",
+        "Testing, evaluations & failure analysis",
+        "Durable workflows & cloud deployments",
+    ]
 
-    private final Map<String, Integer> impact = Map.of(
-        "dailyTransactionsProcessed",  4_000_000,
-        "annualCostSavings_USD",       42_000,
-        "uptime_percentage",           99_99,
-        "manualWorkReduced_percent",   30
-    );
+    exploring = [
+        "Amazon Bedrock", "Strands Agents", "Anthropic SDK", "OpenAI",
+        "AWS", "Inngest", "Vercel", "Cloudflare",
+        "TypeSafe Jev", "Salesforce",
+    ]
 
-    @Override
-    public String currentMission() {
-        return "Engineering fault-tolerant payment systems @ Visa 💳";
-    }
-}
+    def building_loop(self):
+        return "Understand → Build → Evaluate → Deploy → Observe → Improve"
 ```
 
-> 🔹 **5+ years** building high-performance, resilient distributed systems  
-> 🔹 Proven expertise at **Visa**, **JP Morgan Chase**, and **Accenture**  
-> 🔹 Reduced operational costs by **$42K/year** and investigation time by **30%**  
-> 🔹 Systems processing **4M+ transactions daily** at **99.99% availability**
+> 🧠 **Harnesses & context** — tools, memory, orchestration, and execution boundaries<br/>
+> 🤝 **Forward deployment** — real user problems, integrations, and fast feedback<br/>
+> 🧪 **Quality & evaluation** — realistic tasks, regression checks, and failure analysis<br/>
+> ☁️ **Shipping & operations** — durable workflows, observability, and reliable infrastructure
 
 ---
 
-## 🏢 Experience Timeline
+## 🎯 Where My Curiosity Is Going
 
-<div align="center">
-
-```
- 2019 ─────────────────────────── 2021 ────────────────────────── 2023 ──────── 2025 ───▶
-   │                               │                               │              │
- Accenture                    JP Morgan Chase                  JP Morgan     Visa  🔵
- Software Engineer             Sr. Software Engineer            Chase SDE     SDE
- Logistics & Supply Chain      Payment Microservices           (continued)   Payment Tokenization
- Hyderabad, India              Hyderabad, India                              Austin, Texas
-```
-
-</div>
+| | Focus | What I'm interested in |
+| :---: | --- | --- |
+| 🧠 | **AI Harness Engineering** | Agent runtimes, context engineering, tool calling, memory, sandboxes, and human approval flows |
+| 🤝 | **Forward Deployed Engineering** | Understanding user workflows, integrating existing systems, and taking prototypes into real deployments |
+| 🧪 | **Testing & Evaluations** | Agent and tool tests, task-based evals, regression datasets, traces, and failure analysis |
+| ⚡ | **Durable Workflows** | Event-driven orchestration, background jobs, retries, idempotency, and resumable execution |
+| 🚀 | **Deployments & Infrastructure** | CI/CD, serverless and edge runtimes, containers, infrastructure as code, and safe rollouts |
+| 🔗 | **Enterprise Integrations** | Salesforce, APIs, business workflows, and AI applications connected to existing systems |
+| 📡 | **Production Reliability** | Observability, latency, cost, security, and feedback loops |
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Tools & Ecosystems I'm Exploring
 
-<details>
-<summary><b>🔵 Visa — Software Development Engineer</b> &nbsp;<code>Jan 2025 – Present · Austin, TX</code></summary>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>01 · Models & SDKs</h3>
+<p>
+<img height="24" src="https://img.shields.io/badge/Amazon_Bedrock-1e293b?style=flat-square" alt="Amazon Bedrock" /> &nbsp; <img height="24" src="https://img.shields.io/badge/OpenAI-1e293b?style=flat-square" alt="OpenAI" /><br/>
+<img height="24" src="https://img.shields.io/badge/Anthropic_SDK-1e293b?style=flat-square&logo=anthropic&logoColor=c4b5fd" alt="Anthropic SDK" />
+</p>
+<sub>Model integrations · Structured outputs</sub><br/><br/>
+</td>
+<td width="50%" valign="top">
+<h3>02 · Agents & Harnesses</h3>
+<p>
+<img height="24" src="https://img.shields.io/badge/Strands_Agents-1e293b?style=flat-square" alt="Strands Agents" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Deep_Agents-1e293b?style=flat-square" alt="Deep Agents" /><br/>
+<img height="24" src="https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=c4b5fd" alt="LangChain" /> &nbsp; <img height="24" src="https://img.shields.io/badge/LangGraph-1e293b?style=flat-square&logo=langgraph&logoColor=c4b5fd" alt="LangGraph" /><br/>
+<img height="24" src="https://img.shields.io/badge/MCP-1e293b?style=flat-square" alt="MCP" />
+</p>
+<sub>Agent harnesses · Context engineering · Memory · RAG</sub><br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 · Testing & Evaluations</h3>
+<p>
+<img height="24" src="https://img.shields.io/badge/pytest-1e293b?style=flat-square&logo=pytest&logoColor=67e8f9" alt="pytest" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Vitest-1e293b?style=flat-square&logo=vitest&logoColor=67e8f9" alt="Vitest" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Playwright-1e293b?style=flat-square" alt="Playwright" /><br/>
+<img height="24" src="https://img.shields.io/badge/LangSmith-1e293b?style=flat-square" alt="LangSmith" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Harbor-1e293b?style=flat-square" alt="Harbor" /><br/>
+<img height="24" src="https://img.shields.io/badge/OpenTelemetry-1e293b?style=flat-square&logo=opentelemetry&logoColor=67e8f9" alt="OpenTelemetry" />
+</p>
+<sub>Regression evals · Tracing · Failure analysis</sub><br/><br/>
+</td>
+<td width="50%" valign="top">
+<h3>04 · Cloud & Workflows</h3>
+<p>
+<img height="24" src="https://img.shields.io/badge/AWS-1e293b?style=flat-square" alt="AWS" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Inngest-1e293b?style=flat-square" alt="Inngest" /><br/>
+<img height="24" src="https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=67e8f9" alt="Vercel" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Cloudflare-1e293b?style=flat-square&logo=cloudflare&logoColor=67e8f9" alt="Cloudflare" /><br/>
+<img height="24" src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=67e8f9" alt="Docker" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Terraform-1e293b?style=flat-square&logo=terraform&logoColor=67e8f9" alt="Terraform" /><br/>
+<img height="24" src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=67e8f9" alt="GitHub Actions" />
+</p>
+<sub>Durable execution · CI/CD · Serverless & edge</sub><br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>05 · Application Engineering</h3>
+<p>
+<img height="24" src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=93c5fd" alt="Python" /> &nbsp; <img height="24" src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=93c5fd" alt="TypeScript" /><br/>
+<img height="24" src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=93c5fd" alt="Node.js" /> &nbsp; <img height="24" src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=93c5fd" alt="FastAPI" /><br/>
+<img height="24" src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=93c5fd" alt="React" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=93c5fd" alt="Next.js" /><br/>
+<img height="24" src="https://img.shields.io/badge/TypeSafe_Jev-1e293b?style=flat-square" alt="TypeSafe Jev" />
+</p>
+<sub>Developer tools · Internal apps · Type safety</sub><br/><br/>
+</td>
+<td width="50%" valign="top">
+<h3>06 · Enterprise & Data</h3>
+<p>
+<img height="24" src="https://img.shields.io/badge/Salesforce-1e293b?style=flat-square&logo=salesforce&logoColor=93c5fd" alt="Salesforce" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Apex-1e293b?style=flat-square" alt="Apex" /><br/>
+<img height="24" src="https://img.shields.io/badge/LWC-1e293b?style=flat-square" alt="Lightning Web Components" /><br/>
+<img height="24" src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=93c5fd" alt="PostgreSQL" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Redis-1e293b?style=flat-square&logo=redis&logoColor=93c5fd" alt="Redis" />
+</p>
+<sub>API integrations · Vector search · State & retrieval</sub><br/><br/>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>My current exploration map — from models and agent harnesses to deployed applications.</sub></p>
+
+---
+
+## 🔬 Problems I Want to Go Deeper On
+
+<details open>
+<summary><b>🧠 How do we help agents finish useful work?</b></summary>
 <br/>
 
-| Achievement | Impact |
-|------------|--------|
-| 🏗️ Fault-tolerant distributed payment services | **4M+ wallet transactions/day @ 99.99% uptime** |
-| 🤖 LLM-powered fraud investigation assistant (RAG) | **30% reduction in manual investigation time** |
-| 📡 Real-time Flink + Spark Streaming pipelines | **40% improvement in monitoring latency** |
-| ☁️ Terraform infrastructure automation | **60% reduction in configuration drift** |
-| 🔐 AWS API Gateway with OAuth2 + rate limiting | **15+ banking & merchant integrations** |
-| 🧠 LangChain operational knowledge assistant | **35% improvement in incident resolution** |
-
-**Stack:** `Java 17` `Spring Boot` `Apache Flink` `Spark Streaming` `Apache Kafka` `DynamoDB` `AWS EKS` `Terraform` `LangChain` `RAG` `Vector Embeddings` `OAuth2`
+Giving agents the right context and tools, managing state across long tasks, and designing clear execution boundaries. I'm interested in how harness design shapes an agent's behavior.
 
 </details>
 
 <details>
-<summary><b>🏦 JP Morgan Chase & Co. — Senior Software Engineer</b> &nbsp;<code>Mar 2021 – Jun 2023 · Hyderabad, India</code></summary>
+<summary><b>🧪 How do we know a change made an AI system better?</b></summary>
 <br/>
 
-| Achievement | Impact |
-|------------|--------|
-| ⚡ Event-driven transaction architecture (Spark + Redis) | **3X throughput improvement** |
-| 🐘 PostgreSQL query optimization | **60% faster transaction history queries** |
-| ☁️ Legacy → AWS Kubernetes migration | **Weekly releases → multiple daily deployments** |
-| 💰 Infrastructure modernization | **$42K annual cost savings** |
-| 📊 Prometheus + Grafana observability | **99.9%+ uptime maintained** |
-| 👨‍💻 Team mentorship & technical leadership | **4+ engineers guided** |
-
-**Stack:** `Java` `Spring Boot` `Apache Spark` `Redis` `PostgreSQL` `Kubernetes` `AWS` `Jenkins` `gRPC` `Prometheus` `Grafana`
+Evaluating complete workflows with realistic tasks, inspecting traces, analyzing failures, and turning those failures into regression cases. Quality should be visible before and after deployment.
 
 </details>
 
 <details>
-<summary><b>🚚 Accenture — Software Engineer</b> &nbsp;<code>Jun 2019 – Feb 2021 · Hyderabad, India</code></summary>
+<summary><b>⚡ How do AI workflows recover and resume?</b></summary>
 <br/>
 
-| Achievement | Impact |
-|------------|--------|
-| 📦 Shipment tracking microservices | **120+ warehouses & carrier systems** |
-| 🔄 Kafka IoT data pipelines | **35% improvement in supply chain visibility** |
-| 📊 MongoDB NoSQL optimization | **60% improvement in data retrieval** |
-| 🔗 GraphQL & REST API integrations | **SAP, Oracle ERP, carrier networks** |
-| 🚀 Jenkins + Docker CI/CD | **2X improvement in release frequency** |
+Durable execution, retries, idempotency, checkpoints, and human approvals. I'm curious about workflows that stay understandable when external services fail or a task takes longer than expected.
 
-**Stack:** `Java` `Spring Boot` `Apache Kafka` `MongoDB` `React.js` `GraphQL` `OAuth2` `JWT` `C++` `Docker` `Jenkins`
+</details>
+
+<details>
+<summary><b>🚀 What does it take to get a prototype into users' hands?</b></summary>
+<br/>
+
+Understanding the actual problem, integrating real systems, deploying a useful first version, and learning from feedback. This is where my interest in forward deployed engineering meets product and infrastructure.
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔄 My Building Loop
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🌊 Streaming & Messaging
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🤖 AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vector DB](https://img.shields.io/badge/RAG%20Pipelines-FF4B4B?style=for-the-badge&logo=pinecone&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT%20Embeddings-F9AB00?style=for-the-badge&logo=google&logoColor=white)
-
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhithCodes&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-</div>
-
----
-
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🏗️  DISTRIBUTED SYSTEMS       ████████████████████  Expert        │
-│   ☁️  CLOUD NATIVE (AWS/K8s)    ████████████████████  Expert        │
-│   💳  PAYMENT PLATFORMS         ████████████████████  Expert        │
-│   🌊  STREAM PROCESSING         ███████████████████░  Advanced      │
-│   🤖  AI / LLM INTEGRATION      ██████████████████░░  Advanced      │
-│   🔐  API SECURITY              ███████████████████░  Advanced      │
-│   🗄️  DATABASE DESIGN           ████████████████████  Expert        │
-│   📊  OBSERVABILITY             ███████████████████░  Advanced      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+```text
+   UNDERSTAND  ──▶  BUILD  ──▶  TEST & EVALUATE
+       ▲                              │
+       │                              ▼
+    IMPROVE  ◀──  OBSERVE  ◀──      DEPLOY
 ```
 
+**Real problems → small working systems → evidence → iteration**
+
 </div>
+
+I'm especially interested in **developer tools**, **internal AI applications**, **workflow automation**, and **agents that connect to real systems**.
 
 ---
 
-## 🚀 Key Highlights
+## 🔧 Beyond Software
+
+One of my hobbies is **reverse engineering hardware**: understanding how devices work, finding ways to improve them, and making them more personal. I enjoy tinkering with hardware to make it better suited to how I use it.
 
 <div align="center">
 
-| 🏆 Metric | 📈 Value |
-|-----------|----------|
-| 💳 Daily Transactions Processed | **4,000,000+** |
-| ⚡ System Availability | **99.99%** |
-| 💰 Annual Cost Savings Delivered | **$42,000** |
-| 🔬 Investigation Time Reduction | **30%** |
-| 📉 Monitoring Latency Improvement | **40%** |
-| 🔄 Throughput Improvement | **3X** |
-| 🏦 Banking Integrations | **15+** |
-| 🏭 Warehouses Integrated | **120+** |
+<img height="24" src="https://img.shields.io/badge/Hardware_Tinkering-1e293b?style=flat-square" alt="Hardware Tinkering" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Reverse_Engineering-1e293b?style=flat-square" alt="Reverse Engineering" /> &nbsp; <img height="24" src="https://img.shields.io/badge/Personalization-1e293b?style=flat-square" alt="Personalization" />
+
+**Understand it → improve it → make it my own.**
 
 </div>
-
----
-
-## 🧠 What I'm Currently Working On
-
-- 🔭 Engineering **tokenization services** for digital wallet payments at Visa
-- 🤖 Building **RAG-powered fraud investigation** workflows with LLM pipelines
-- ⚡ Architecting **real-time Flink pipelines** for anomaly detection at scale
-- 🌱 Deepening expertise in **Agentic AI systems** and **vector databases**
 
 ---
 
@@ -246,16 +205,17 @@ public class SuhithGhanathay extends SeniorSoftwareEngineer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhith.g@mycvscout.com)
-[![Phone](https://img.shields.io/badge/+1_(682)_340--7406-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16823407406)
+Interested in **AI harnesses**, **forward deployed engineering**, **evaluations**, or **cloud infrastructure**?
+
+I'd love to compare notes and collaborate.
 
 <br/>
 
-*Open to exciting opportunities in distributed systems, fintech, and AI-powered platforms*
+[![Email](https://img.shields.io/badge/Let%27s_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhith.g@mycvscout.com)
+[![GitHub](https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhithCodes?tab=repositories)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0891b2%2C55%3A312e81%2C100%3A0f172a&height=120&section=footer" alt="Gradient footer" />
 
 </div>
